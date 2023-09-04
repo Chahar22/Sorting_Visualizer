@@ -23,4 +23,4 @@ Features:
 4) Time and Space complexity of algorithm being visualized.
 
 To View :-
-Check Link :- [sortview.netlify.app](https://sortview.netlify.app/)https://sortview.netlify.app/
+Check Link :- (https://sortview.netlify.app/)
